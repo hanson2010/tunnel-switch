@@ -24,6 +24,9 @@ function FindProxyForURL(url, host)
         ,'wikimediafoundation.org'
 
         ,'line.me'
+        ,'line-apps.com'
+        ,'line-scdn.net'
+        ,'line.naver.jp'
         ,'vimeo.com'
         ,'media.expedia.com'
         ,'epubxp.com'
