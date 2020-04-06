@@ -46,12 +46,14 @@ function FindProxyForURL(url, host)
         ,'taipei'
         ,'tw'
 
-//        ,'github.com'
-//        ,'stackexchange.com'
-//        ,'stackoverflow.com'
-//        ,'sstatic.net'
+        ,'github.com'
+        ,'github.io'
+        ,'stackexchange.com'
+        ,'stackoverflow.com'
+        ,'sstatic.net'
         ,'w3schools.com'
         ,'angularjs.org'
+        ,'quilljs.com'
         ,'flask.pocoo.org'
         ,'virmach.com'
 
