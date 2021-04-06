@@ -48,6 +48,7 @@ function FindProxyForURL(url, host)
 
         ,'github.com'
         ,'github.io'
+        ,'githubusercontent.com'
         ,'stackexchange.com'
         ,'stackoverflow.com'
         ,'sstatic.net'
